@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
+
     // Select the button by its classes
     const subscribeButton = document.querySelector('.md-button.md-button--primary');
 
@@ -14,9 +15,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
     // Select all elements with the .md-clipboard class
-    const clickedTargets = document.querySelectorAll('.md-clipboard');
+    const clickedTargets = document.querySelectorAll('.md-clipboard.md-icon');
     clickedTargets.forEach(function (clickedTarget) {
         clickedTarget.addEventListener('click', function (e) {
+            console.error("Viet Pro ---");
             confetti({
                 angle: randomInRange(55, 125),
                 spread: randomInRange(50, 70),
