@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pqviet07.github.io/NoteForGo/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/0.%20hello_world/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/0.%20hello_world/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/1.%20data_types/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/1.%20data_types/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/11.0%20function/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/11.0%20function/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/11.1%20pass_params/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/11.1%20pass_params/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/11.2%20return%20_values/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/11.2%20return%20_values/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/12.%20generic/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/12.%20generic/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/13.%20pointer_and_nil/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/13.%20pointer_and_nil/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/14.%20misc/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/14.%20misc/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/2.%20variables_and_values/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/2.%20variables_and_values/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/3.%20operator/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/3.%20operator/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/4.%20constant/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/4.%20constant/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/4.%20standard_io/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/4.%20standard_io/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/5.%20control_statement/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/5.%20control_statement/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/6.0%20array/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/6.0%20array/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/6.1%20slice/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/6.1%20slice/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/6.2%20string/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/6.2%20string/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/6.3%20map/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/6.3%20map/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/7.0%20struct/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/7.0%20struct/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/7.1%20interface/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/7.1%20interface/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/8.%20type_conversion/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/8.%20type_conversion/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
     <url>
-         <loc>https://pqviet07.github.io/NoteForGo/Basic/9.%20comparison_and_copy/</loc>
-         <lastmod>2024-09-04</lastmod>
+         <loc>https://pqviet07.github.io/NoteForGo/basic/9.%20comparison_and_copy/</loc>
+         <lastmod>2024-09-06</lastmod>
     </url>
 </urlset>
